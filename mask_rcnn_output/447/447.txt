@@ -1,0 +1,2 @@
+rightpanel 1 398.672 272.766 426.562 70.5469 875 656 /home/user/联调_copy/mask_rcnn_output/447/mask_0_1.png
+leftpanel 1 102.812 242.961 336.055 68.6328 875 656 /home/user/联调_copy/mask_rcnn_output/447/mask_1_2.png
